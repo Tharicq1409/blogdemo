@@ -1,0 +1,5 @@
+git remote set-url origin https://githubusername:accesstoken@github.com/username/repositoryname.git
+
+git remote set-url origin https://Tharicq1409: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@github.com/Tharicq1409/frontendfundamentals.git
+
+
